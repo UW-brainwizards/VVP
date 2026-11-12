@@ -56,3 +56,5 @@ What is their skill level?
 19) Charlie is a second year medical student interested in neurosurgery, and he is still learning about brain anatomy and stroke detection. He wants to learn more about brain anatomy and how it changes in the presence of disease and ageing. Charlie has no coding experience, but has a basic understanding of neuroscience.
 
 20) Shanae is a mechanical engineering student who wants to build medical devices after she graduates. She is particularly interested in the machines used to generate MRE stiffness maps. She wants a website where she can learn more about MRE and view different stiffness maps. She has solid mechanical engineering knowledge but limited brain anatomy knowledge.
+
+21) Dave is a professor in neurology who is teaching a neurological diseases course. The students are currently learning about how neurological diseases can alter the brain. Dave wants an interactive website where the students can look at MRE stiffness maps and observe changes in brain stiffness in the presence of disease. Dave is an expert in brain anatomy, neurology and neuroscience. 
