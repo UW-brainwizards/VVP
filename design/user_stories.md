@@ -52,3 +52,7 @@ What is their skill level?
 17) Leo is a machine learning student interested in comparing results from different versions of an existing prediction model. He wants to see how the same MRI sample is predicted by each version and keep track of which model produced each result. He needs side-by-side visualizations, model version labels, and a summary of the differences. He understands Python and machine learning but is unfamiliar with brain biomechanics.
 
 18) Mike is a software developer helping maintain a research visualization website. He wants to make sure the application continues working when new datasets or prediction results are added. He needs clear error messages, data validation checks, and automated tests for the main features. He has experience with Python, GitHub, and software testing but little knowledge of neuroscience.
+
+19) Charlie is a second year medical student interested in neurosurgery, and he is still learning about brain anatomy and stroke detection. He wants to learn more about brain anatomy and how it changes in the presence of disease and ageing. Charlie has no coding experience, but has a basic understanding of neuroscience.
+
+20) Shanae is a mechanical engineering student who wants to build medical devices after she graduates. She is particularly interested in the machines used to generate MRE stiffness maps. She wants a website where she can learn more about MRE and view different stiffness maps. She has solid mechanical engineering knowledge but limited brain anatomy knowledge.
