@@ -1,28 +1,30 @@
+
 [build-system]
-requires = ["setuptools>=64.0”, "wheel", "setuptools_scm>=8.1"]
-build-backend = "setuptools.build_meta”
+requires = ["setuptools>=64.0", "wheel", "setuptools_scm>=8.1"]
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "brain-wizards"
 dynamic = ["version"]
 authors = [
-{name="Seyoung Park", email="syp374@uw.edu"},
-{name="Melinda Ma", email="mm206@uw.edu"},
-{name="Emma Zhou", email="tianrz5@uw.edu"},
-{name="Sandra Oluoch", email="soluoch@uw.edu"}
+    {name = "Seyoung Park", email = "syp374@uw.edu"},
+    {name = "Melinda Ma", email = "mm206@uw.edu"},
+    {name = "Emma Zhou", email = "tianrz5@uw.edu"},
+    {name = "Sandra Oluoch", email = "soluoch@uw.edu"}
 ]
 description = "Using Deep Learning Models to Predict Brain Tissue Stiffness Maps from MRI and MR Elastography"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-"numpy>=1.25",
-"pandas>=2.1",
+    "numpy>=1.25",
+    "pandas>=2.1",
 ]
 classifiers = [
-"Programming Language :: Python :: 3",
-"License :: OSI Approved :: MIT License",
-"Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
 ]
+
 [tool.setuptools_scm]
 
 [project.urls]
